@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1234b3c9-a5e0-4094-86bd-ec7c86d0503b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point2d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point3d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    <list default="true" id="1234b3c9-a5e0-4094-86bd-ec7c86d0503b" name="Changes" comment="firstCommitAllTasks">
+      <change afterPath="$PROJECT_DIR$/src/Extra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_9.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,26 +49,41 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aleksandrbaskatov/IdeaProjects/untitled&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab1">
-    <configuration name="Lab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1" />
+  <component name="RunManager" selected="Application.Task4">
+    <configuration name="Extra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Extra" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task1_10" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task1_9" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task1" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,9 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab1" />
-        <item itemvalue="Application.Task1_10" />
-        <item itemvalue="Application.Task1_9" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Extra" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -93,6 +108,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665407785558</updated>
     </task>
+    <task id="LOCAL-00001" summary="firstCommitAllTasks">
+      <created>1666253721842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666253721842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,5 +128,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstCommitAllTasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstCommitAllTasks" />
   </component>
 </project>
